@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\corte\Documents\Programas en Visual Studio\C++\Vision artificial\Examen_practico\Source.cpp(208,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\corte\Documents\Programas en Visual Studio\C++\Vision artificial\Examen_practico\Source.cpp(208,32): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\corte\Documents\Programas en Visual Studio\C++\Vision artificial\Examen_practico\Source.cpp(212,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\corte\Documents\Programas en Visual Studio\C++\Vision artificial\Examen_practico\Source.cpp(213,37): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\corte\Documents\Programas en Visual Studio\C++\Vision artificial\Examen_practico\Source.cpp(348,9): warning C4101: 'valor': variable local sin referencia
+C:\Users\corte\Documents\Programas en Visual Studio\C++\Vision artificial\Examen_practico\Source.cpp(468,9): warning C4101: 'valor': variable local sin referencia
+C:\Users\corte\Documents\Programas en Visual Studio\C++\Vision artificial\Examen_practico\Source.cpp(499,35): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+  Examen_practico.vcxproj -> C:\Users\corte\Documents\Programas en Visual Studio\C++\Vision artificial\Examen_practico\x64\Debug\Examen_practico.exe
